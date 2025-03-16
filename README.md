@@ -10,17 +10,19 @@
 
 ---
 
-### 🚀 About Me
-- 💻 Passionate **Full-Stack Developer** from Morocco  
-- 🌱 Currently learning **Web Development & DevOps Tools**  
-- 💬 Ask me about anything, I’d love to help!  
-- 📫 How to reach me: **fellahhamza48@gmail.com**  
+## 🚀 About Me
+<p align="center">
+  I'm a **Full-Stack Developer** from **Morocco** with a passion for **Web Development** and **DevOps**.
+</p>
+- 🌱 Currently learning **Web Development** & **DevOps Tools**
+- 💬 I’m always open to collaborating and helping with anything tech-related!
+- 📫 Reach me at: **fellahhamza48@gmail.com**
 
 ---
 
-### ⚙️ Technologies & Tools  
+## ⚙️ Technologies & Tools
 
-#### 🌐 Frontend | 🛠 Backend | 🗄 Databases | 🛠 DevOps  
+### 🌐 **Frontend** | 🛠 **Backend** | 🗄 **Databases** | 🔧 **DevOps**
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
@@ -48,34 +50,36 @@
 
 ---
 
-### 📊 GitHub Insights & Stats  
-
-<div align="center">
+## 📊 GitHub Insights & Stats
+<p align="center">
   <a href="https://github.com/Fhamza03">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fhamza03&theme=github_dark" />
   </a>
-</div>
-<div align="center">
+</p>
+<p align="center">
   <a href="https://github.com/Fhamza03">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fhamza03&theme=dark" />
   </a>
-</div>
-<div align="center">
+</p>
+<p align="center">
   <a href="https://github.com/Fhamza03">
     <img src="https://github-readme-stats.vercel.app/api?username=Fhamza03&show_icons=true&theme=dark" />
   </a>
-</div>
-<div align="center">
+</p>
+<p align="center">
   <a href="https://github.com/Fhamza03">
     <img src="https://github-profile-trophy.vercel.app/?username=Fhamza03&theme=onedark&margin-w=15&no-frame=true" />
   </a>
-</div>
-<div align="center">
+</p>
+<p align="center">
   <a href="https://github.com/Fhamza03">
     <img src="https://komarev.com/ghpvc/?username=Fhamza03&label=Profile%20Views&color=blue&style=flat" />
   </a>
-</div>
+</p>
 
 ---
 
-⭐ **Feel free to connect and collaborate!** 🚀
+## ⭐ Let's Connect & Collaborate 🚀
+I'm always excited about new projects and collaboration opportunities! Feel free to reach out and let's create something amazing together.
+
+---
