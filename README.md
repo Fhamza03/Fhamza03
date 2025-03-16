@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Hamza FELLAH</h1>
-<h3 align="center">A Full-Stack Developer | Web & DevOps Enthusiast</h3>
+<h1 align="left">Hi 👋, I'm Hamza FELLAH</h1>
+<h3 align="left">A Full-Stack Developer | Web & DevOps Enthusiast</h3>
 
 <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=fhamza03&label=Profile%20views&color=0e75b6&style=flat" alt="fhamza03" /> 
